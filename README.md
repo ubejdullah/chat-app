@@ -24,7 +24,7 @@ This is a real-time chat application built using the MERN stack (MongoDB, Expres
 1. Clone the repository:
     ```shell
     git clone https://github.com/koolkishan/chat-app-react-nodejs
-    cd chat-app-react-nodejs
+    cd chat-app
     ```
 
 2. Install the dependencies:
